@@ -1,6 +1,7 @@
-import NavBar from '@/components/NavBar'
 import '@/styles/globals.css'
+import NavBar from '@/components/NavBar'
 import { Montserrat } from 'next/font/google'
+
 import Head from 'next/head'
 
 const montserrat = Montserrat({
